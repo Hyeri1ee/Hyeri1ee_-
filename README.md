@@ -6,6 +6,8 @@ Studying Book
 
 "실습을 통해 쉽게 배우는 자바프로그래밍 (원종권 지음)" start :<img src="https://img.shields.io/badge/22.10.30 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/>     finish :   (expect to finish on <img src="https://img.shields.io/badge/22.11.01 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/> )
 
+current : p.52
+
 <img src="https://img.shields.io/badge/!!-3766AB?style=flat-square&logo=simpleiconsAccusoft&logoColor=white"/></a> Goal of study : Improving coding skill using Java programming language
 
 <img src="https://img.shields.io/badge/**-A9225C?style=flat-square&logo=simpleiconsAccusoft&logoColor=white"/></a> /Anything can be added HERE:
