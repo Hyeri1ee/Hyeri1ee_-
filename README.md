@@ -4,14 +4,18 @@ JAVA SELF STUDY
 
 Studying Book
 
-"실습을 통해 쉽게 배우는 자바프로그래밍 (원종권 지음)" 공부시작일:<img src="https://img.shields.io/badge/22.10.30 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/>     공부완료일:
+"실습을 통해 쉽게 배우는 자바프로그래밍 (원종권 지음)" start :<img src="https://img.shields.io/badge/22.10.30 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/>     finish :   (expect to finish on <img src="https://img.shields.io/badge/22.11.01 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/> )
 
 <img src="https://img.shields.io/badge/!!-3766AB?style=flat-square&logo=simpleiconsAccusoft&logoColor=white"/></a> Goal of study : Improving coding skill using Java programming language
 
 <img src="https://img.shields.io/badge/**-A9225C?style=flat-square&logo=simpleiconsAccusoft&logoColor=white"/></a> /Anything can be added HERE:
+notion , github stduying necessary
 
-노션과 깃허브 공부좀 해야겠담
-라면먹구 싶다 <img src="https://img.shields.io/badge/22.10.30 -512BD4?style=flat-square&logo=22.10.30&logoColor=512BD4"/>
+c language restudying necessary
+
+
+
+<img src="https://img.shields.io/badge/22.10.30 -512BD4?style=flat-square&logo=22.10.30&logoColor=512BD4"/>
 
 README FILE decorating stie reference
 <a href="https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC"><img src="https://img.shields.io/badge/Site-FFCA28?style=flat-square&logo=Site 1&logoColor=white"/></a>
