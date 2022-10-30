@@ -6,7 +6,7 @@ Studying Book
 
 "Java Programming easily learned through practice (Jkwon write)" start :<img src="https://img.shields.io/badge/22.10.30 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/>     finish :   (expect to finish on <img src="https://img.shields.io/badge/22.11.01 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/> )
 
-current : p.55
+current : p.70
 
 <img src="https://img.shields.io/badge/!!-3766AB?style=flat-square&logo=simpleiconsAccusoft&logoColor=white"/></a> Goal of study : Improve coding skill using Java programming language
 
@@ -29,6 +29,8 @@ more effective daily schedule program necessary - search or create
 ++ printformat %d and %f review ex) 0 filled printing //%e and %g review
 
 ++ DecimalFormat class review ex)# , 0 difference
+
+++ Book "JPELP" p.70 - in case of reference type, not preclaiming field is okay?
 
 <img src="https://img.shields.io/badge/22.10.30 -512BD4?style=flat-square&logo=22.10.30&logoColor=512BD4"/>
 
