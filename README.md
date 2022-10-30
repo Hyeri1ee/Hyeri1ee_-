@@ -8,7 +8,7 @@ Studying Book
 
 current : p.55
 
-<img src="https://img.shields.io/badge/!!-3766AB?style=flat-square&logo=simpleiconsAccusoft&logoColor=white"/></a> Goal of study : Improving coding skill using Java programming language
+<img src="https://img.shields.io/badge/!!-3766AB?style=flat-square&logo=simpleiconsAccusoft&logoColor=white"/></a> Goal of study : Improve coding skill using Java programming language
 
 <img src="https://img.shields.io/badge/**-A9225C?style=flat-square&logo=simpleiconsAccusoft&logoColor=white"/></a> /Anything can be added HERE:
 
