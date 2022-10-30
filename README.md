@@ -8,7 +8,7 @@ Studying Book
 
 <img src="https://img.shields.io/badge/!!-3766AB?style=flat-square&logo=simpleiconsAccusoft&logoColor=white"/></a> Goal of study : Improving coding skill using Java programming language
 
-<img src="https://img.shields.io/badge/**-A9225C?style=flat-square&logo=simpleiconsAccusoft&logoColor=white"/></a> /(진짜)아무거나 적어놓는 란:
+<img src="https://img.shields.io/badge/**-A9225C?style=flat-square&logo=simpleiconsAccusoft&logoColor=white"/></a> /Anything can be added HERE:
 
 노션과 깃허브 공부좀 해야겠담
 라면먹구 싶다 <img src="https://img.shields.io/badge/22.10.30 -512BD4?style=flat-square&logo=22.10.30&logoColor=512BD4"/>
