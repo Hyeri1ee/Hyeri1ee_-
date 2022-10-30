@@ -9,11 +9,14 @@ Studying Book
 <img src="https://img.shields.io/badge/!!-3766AB?style=flat-square&logo=simpleiconsAccusoft&logoColor=white"/></a> Goal of study : Improving coding skill using Java programming language
 
 <img src="https://img.shields.io/badge/**-A9225C?style=flat-square&logo=simpleiconsAccusoft&logoColor=white"/></a> /Anything can be added HERE:
+
 notion , github stduying necessary
 
 c language restudying necessary
 
+search what to study next
 
+fact study pre/re study necessary
 
 <img src="https://img.shields.io/badge/22.10.30 -512BD4?style=flat-square&logo=22.10.30&logoColor=512BD4"/>
 
