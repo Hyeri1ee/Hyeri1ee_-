@@ -18,6 +18,8 @@ search what to study next
 
 fact study pre/re study necessary
 
+more effective daily schedule program necessary - search or create
+
 <img src="https://img.shields.io/badge/22.10.30 -512BD4?style=flat-square&logo=22.10.30&logoColor=512BD4"/>
 
 README FILE decorating stie reference
