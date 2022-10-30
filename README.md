@@ -4,7 +4,7 @@ JAVA SELF STUDY
 
 Studying Book
 
-"실습을 통해 쉽게 배우는 자바프로그래밍 (원종권 지음)" start :<img src="https://img.shields.io/badge/22.10.30 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/>     finish :   (expect to finish on <img src="https://img.shields.io/badge/22.11.01 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/> )
+"Java Programming easily learned through practice (Jkwon write)" start :<img src="https://img.shields.io/badge/22.10.30 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/>     finish :   (expect to finish on <img src="https://img.shields.io/badge/22.11.01 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/> )
 
 current : p.52
 
@@ -22,7 +22,8 @@ fact study pre/re study necessary
 
 more effective daily schedule program necessary - search or create
 
-++ 제어문자 \r 올바른 실행 다시 보기
+++ escape sequence \r and \n difference review
+++ escape sequence \b error review
 
 <img src="https://img.shields.io/badge/22.10.30 -512BD4?style=flat-square&logo=22.10.30&logoColor=512BD4"/>
 
