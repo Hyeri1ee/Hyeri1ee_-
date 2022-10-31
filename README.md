@@ -6,7 +6,7 @@ Studying Book
 
 "Java Programming easily learned through practice (Jkwon write)" start :<img src="https://img.shields.io/badge/22.10.30 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/>     finish :   (expect to finish on <img src="https://img.shields.io/badge/22.11.01 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/> )
 
-current : ~ p.85 , p.116 ~ p.
+current : ~ p.85 , p.116 ~ p.131
 
 <img src="https://img.shields.io/badge/!!-3766AB?style=flat-square&logo=simpleiconsAccusoft&logoColor=white"/></a> Goal of study : Improve coding skill using Java programming language
 
@@ -33,6 +33,10 @@ more effective daily schedule program necessary - search or create
 ++ Book "JPELP" p.70 - in case of reference type, not preclaiming field is okay?
 
 <img src="https://img.shields.io/badge/22.10.30 -512BD4?style=flat-square&logo=22.10.30&logoColor=512BD4"/>
+
+
+++ self create equalsIgnoreCase method algorithm 
+<img src="https://img.shields.io/badge/22.10.31 -512BD4?style=flat-square&logo=22.10.30&logoColor=512BD4"/>
 
 README FILE decorating stie reference
 <a href="https://velog.io/@seondal/Github-Readme-%EA%BE%B8%EB%AF%B8%EA%B8%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC"><img src="https://img.shields.io/badge/Site-FFCA28?style=flat-square&logo=Site 1&logoColor=white"/></a>
