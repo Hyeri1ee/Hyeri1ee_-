@@ -41,6 +41,8 @@ more effective daily schedule program necessary - search or create
 
 ++ math.pow (base, exponent)
 
+++ float , double difference
+
 <img src="https://img.shields.io/badge/22.11.01 -512BD4?style=flat-square&logo=22.10.30&logoColor=512BD4"/>
 
 README FILE decorating stie reference
