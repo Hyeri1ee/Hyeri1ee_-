@@ -4,9 +4,9 @@ JAVA SELF STUDY
 
 Studying Book
 
-"Java Programming easily learned through practice (Jkwon write)" start :<img src="https://img.shields.io/badge/22.10.30 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/>     finish :   (expect to finish on <img src="https://img.shields.io/badge/22.11.01 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/>  1 day delay  --- >>> <img src="https://img.shields.io/badge/22.11.02 -EC1C24?style=flat-square&logo=JAVA&logoColor=512BD4"/>)
+"Java Programming easily learned through practice (Jkwon write)" start :<img src="https://img.shields.io/badge/22.10.30 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/>     finish :   (expect to finish on <img src="https://img.shields.io/badge/22.11.01 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/>  3 day delay  --- >>> <img src="https://img.shields.io/badge/22.11.04 -EC1C24?style=flat-square&logo=JAVA&logoColor=512BD4"/>)
 
-current : ~ p.85 , p.116 ~ p.201
+current : ~ p.85 , p.116 ~ p.202
 
 <img src="https://img.shields.io/badge/!!-3766AB?style=flat-square&logo=simpleiconsAccusoft&logoColor=white"/></a> Goal of study : Improve coding skill using Java programming language
 
