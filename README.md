@@ -6,7 +6,7 @@ Studying Book
 
 "Java Programming easily learned through practice (Jkwon write)" start :<img src="https://img.shields.io/badge/22.10.30 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/>     finish :   (expect to finish on <img src="https://img.shields.io/badge/22.11.01 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/>  3 days delay  --- >>> <img src="https://img.shields.io/badge/22.11.04 -EC1C24?style=flat-square&logo=JAVA&logoColor=512BD4"/>)
 
-current : ~ p.85 , p.116 ~ p.232
+current : ~ p.85 , p.116 ~ p.234
 
 <img src="https://img.shields.io/badge/!!-3766AB?style=flat-square&logo=simpleiconsAccusoft&logoColor=white"/></a> Goal of study : Improve coding skill using Java programming language
 
@@ -47,7 +47,7 @@ more effective daily schedule program necessary - search or create
 
 ++ sort algorithm : bubble sort
 
-++ toString() method role and overriding
+++ toString() method role and overriding --> Speciality of String class 
 
 ++ Why not using "new" is okay when making String class instance
 
