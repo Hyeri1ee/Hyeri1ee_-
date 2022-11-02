@@ -51,8 +51,9 @@ more effective daily schedule program necessary - search or create
 
 ++ Why not using "new" is okay when making String class instance
 
-
 ++ 'javax' package --> GUI programming ,Swing class ???
+
+++ p.243 sorce code review with access prohibitied
 
 <img src="https://img.shields.io/badge/22.11.02 -512BD4?style=flat-square&logo=22.10.30&logoColor=512BD4"/>
 
