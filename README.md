@@ -6,7 +6,7 @@ Studying Book
 
 "Java Programming easily learned through practice (Jkwon write)" start :<img src="https://img.shields.io/badge/22.10.30 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/>     finish :   (expect to finish on <img src="https://img.shields.io/badge/22.11.01 -ECD53F?style=flat-square&logo=JAVA&logoColor=512BD4"/>  1 day delay  --- >>> <img src="https://img.shields.io/badge/22.11.02 -EC1C24?style=flat-square&logo=JAVA&logoColor=512BD4"/>)
 
-current : ~ p.85 , p.116 ~ p.193
+current : ~ p.85 , p.116 ~ p.201
 
 <img src="https://img.shields.io/badge/!!-3766AB?style=flat-square&logo=simpleiconsAccusoft&logoColor=white"/></a> Goal of study : Improve coding skill using Java programming language
 
@@ -45,7 +45,7 @@ more effective daily schedule program necessary - search or create
 
 <img src="https://img.shields.io/badge/22.11.01 -512BD4?style=flat-square&logo=22.10.30&logoColor=512BD4"/>
 
-++ 
+++ sort algorithm : bubble sort
 
 <img src="https://img.shields.io/badge/22.11.02 -512BD4?style=flat-square&logo=22.10.30&logoColor=512BD4"/>
 
