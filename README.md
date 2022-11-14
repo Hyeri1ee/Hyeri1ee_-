@@ -71,7 +71,7 @@ more effective daily schedule program necessary - search or create
 
 
 
-++ 1) upcasting , downcasting 
+>>++ 1) upcasting , downcasting 
    >> 왜 사용하는지 -> 다형성 활용의 이점 +예시
    >> 부모 클래스가 참조할 수 있는 영역
    >>자식 클래스가 참조할 수 있는 영역
