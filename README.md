@@ -72,9 +72,9 @@ more effective daily schedule program necessary - search or create
 
 
 >>++ 1) upcasting , downcasting 
-   >> 왜 사용하는지 -> 다형성 활용의 이점 +예시
-   >> 부모 클래스가 참조할 수 있는 영역
-   >>자식 클래스가 참조할 수 있는 영역
+   >> 왜 사용하는지 -> 다형성 활용의 이점 + 예시
+   >> 부모 클래스가 참조할 수 있는 영역 / 자식 클래스가 참조할 수 있는 영역
+   >> 인터페이스 사용시, 매개변수의 다형성 ( 자동 타입 변환 발생 )
 
 <img src="https://img.shields.io/badge/22.11.14 -512BD4?style=flat-square&logo=22.10.30&logoColor=512BD4"/>
 
