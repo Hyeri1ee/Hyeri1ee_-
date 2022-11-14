@@ -78,7 +78,9 @@ more effective daily schedule program necessary - search or create
    
 >>++ 2) Exception Handling
    >> try ~ catch
+   
    >> throws
+   
    >> throw
 
 <img src="https://img.shields.io/badge/22.11.14 -512BD4?style=flat-square&logo=22.10.30&logoColor=512BD4"/>
