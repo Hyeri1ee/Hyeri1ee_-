@@ -89,6 +89,9 @@ more effective daily schedule program necessary - search or create
 >>메소드 
 
 
+>>++2) Vector class
+>> List 참조 vs Vector 참조
+
 <img src="https://img.shields.io/badge/22.11.15 -512BD4?style=flat-square&logo=22.10.30&logoColor=512BD4"/>
 
 README FILE decorating stie reference
