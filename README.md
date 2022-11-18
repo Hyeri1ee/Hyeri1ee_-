@@ -97,6 +97,8 @@ more effective daily schedule program necessary - search or create
 
 
 >>++1) Integer 와 int 
+
+
 >>++2) heap memory out of error
 
 
